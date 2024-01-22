@@ -1,9 +1,9 @@
 # Импорт функции получения случайных чисел
 # из модуля random.
-from random import randint
+from random import randint 
 
 # Получаем случайное число в диапазоне от 1 до 100.
-number = randint(1, 100)
+number = randint(1, 200)
 print('Угадайте число от 1 до 100')
 
 while True:
